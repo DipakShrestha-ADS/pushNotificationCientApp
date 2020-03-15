@@ -1,6 +1,7 @@
 # pushnotificationclients
 
-A push notification client application 
+A push notification client application written in flutter with BLoC Architecture
+that receives notification from firebase cloud messaging on basic of topics.
 
 ## Getting Started
 
